@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Merydio/Music/project_5.0/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Merydio/Music/project_5.0/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'queue-management-system 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Merydio/Music/project_5.0/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'queue-management-system 1.0-SNAPSHOT API'
+com.queueapp.gui
+com.queueapp
+com.queueapp.model
+com.queueapp.util
+C:\Users\Merydio\Music\project_5.0\src\main\java = 1733466610000
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\allclasses-index.html = 1733463985247
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\allpackages-index.html = 1733463985251
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\element-list = 1733463985118
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\help-doc.html = 1733463985277
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\index-all.html = 1733463985271
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\index.html = 1733463985233
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\jquery-ui.overrides.css = 1733463985290
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\member-search-index.js = 1733463985258
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\module-search-index.js = 1733463985253
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\overview-summary.html = 1733463985273
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\overview-tree.html = 1733463985229
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\package-search-index.js = 1733463985254
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\script.js = 1733463985280
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\search.js = 1733463985282
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\serialized-form.html = 1733463985183
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\stylesheet.css = 1733463985279
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\tag-search-index.js = 1733463985259
+C:\Users\Merydio\Music\project_5.0\target\reports\apidocs\type-search-index.js = 1733463985256
